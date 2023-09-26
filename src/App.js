@@ -1,6 +1,5 @@
-import { useEffect } from 'react';
 import Title from './components/Title';
-import Setup from './examples/1-first-request'
+import Setup from './examples/6-interceptors'
 
 function App() {
   return (
